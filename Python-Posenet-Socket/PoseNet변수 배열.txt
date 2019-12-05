@@ -1,0 +1,17 @@
+nose
+lefteye
+righteye
+leftear
+rightear
+leftshoulder
+rightshoulder
+leftelbow
+rightelbow
+leftwrist
+rightwrist
+lefthip
+righthip
+leftknee
+rightknee
+leftankle
+rightankle
