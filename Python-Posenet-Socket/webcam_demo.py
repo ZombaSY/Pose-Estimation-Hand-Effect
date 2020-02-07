@@ -18,10 +18,10 @@ args = parser.parse_args()
 def main():
 
     serverSock = socket(AF_INET, SOCK_STREAM)
-    serverSock.bind(('127.0.0.1', 8000))
+    serverSock.bind(('127.0.0.1', 1998))
 
     serverSock2 = socket(AF_INET, SOCK_STREAM)
-    serverSock2.bind(('127.0.0.1', 8001))
+    serverSock2.bind(('127.0.0.1', 1999))
 
     with tf.Session() as sess:
 
